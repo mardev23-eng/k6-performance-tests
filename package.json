@@ -1,0 +1,37 @@
+{
+  "name": "k6-portfolio-performance-tests",
+  "version": "1.0.0",
+  "description": "Enterprise K6 performance testing suite for Marvin Marzon's QA & SDET Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test:smoke": "k6 run tests/smoke/smoke-test.js",
+    "test:load": "k6 run tests/load/load-test.js",
+    "test:stress": "k6 run tests/stress/stress-test.js",
+    "test:spike": "k6 run tests/spike/spike-test.js",
+    "test:endurance": "k6 run tests/endurance/endurance-test.js",
+    "test:all": "npm run test:smoke && npm run test:load && npm run test:stress",
+    "test:ci": "k6 run --out json=reports/results.json tests/load/load-test.js",
+    "report": "node scripts/generate-report.js",
+    "setup": "mkdir -p reports data && npm install",
+    "clean": "rm -rf reports/*.json reports/*.html",
+    "docker:build": "docker build -t k6-portfolio-tests .",
+    "docker:run": "docker run --rm -v $(pwd)/reports:/app/reports k6-portfolio-tests"
+  },
+  "keywords": [
+    "k6",
+    "performance",
+    "testing",
+    "load-testing",
+    "qa",
+    "sdet",
+    "enterprise"
+  ],
+  "author": "Marvin Marzon",
+  "license": "MIT",
+  "devDependencies": {
+    "chart.js": "^4.4.0",
+    "chartjs-node-canvas": "^4.1.6",
+    "fs-extra": "^11.1.1",
+    "moment": "^2.29.4"
+  }
+}

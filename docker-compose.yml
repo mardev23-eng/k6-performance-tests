@@ -1,0 +1,57 @@
+version: '3.8'
+
+services:
+  k6:
+    build: .
+    volumes:
+      - ./reports:/app/reports
+      - ./tests:/app/tests
+      - ./config:/app/config
+      - ./utils:/app/utils
+    environment:
+      - ENVIRONMENT=production
+    command: run tests/load/load-test.js
+
+  k6-smoke:
+    build: .
+    volumes:
+      - ./reports:/app/reports
+      - ./tests:/app/tests
+      - ./config:/app/config
+      - ./utils:/app/utils
+    environment:
+      - ENVIRONMENT=production
+    command: run tests/smoke/smoke-test.js
+
+  k6-stress:
+    build: .
+    volumes:
+      - ./reports:/app/reports
+      - ./tests:/app/tests
+      - ./config:/app/config
+      - ./utils:/app/utils
+    environment:
+      - ENVIRONMENT=production
+    command: run tests/stress/stress-test.js
+
+  k6-spike:
+    build: .
+    volumes:
+      - ./reports:/app/reports
+      - ./tests:/app/tests
+      - ./config:/app/config
+      - ./utils:/app/utils
+    environment:
+      - ENVIRONMENT=production
+    command: run tests/spike/spike-test.js
+
+  k6-endurance:
+    build: .
+    volumes:
+      - ./reports:/app/reports
+      - ./tests:/app/tests
+      - ./config:/app/config
+      - ./utils:/app/utils
+    environment:
+      - ENVIRONMENT=production
+    command: run tests/endurance/endurance-test.js
