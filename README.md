@@ -1,15 +1,15 @@
-# 🚀 K6 Enterprise Performance Testing Suite
+# 🚀 K6 Professional Performance Testing Suite
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![K6 Version](https://img.shields.io/badge/K6-Latest-blue.svg)](https://k6.io/)
 
 > **Performance testing framework for QA & SDET portfolio validation**
 
-Professional K6 performance testing suite demonstrating advanced load testing capabilities, comprehensive monitoring, and enterprise-level reporting for [Marvin Marzon's QA & SDET Portfolio](https://marvinmarzon.netlify.app).
+Professional K6 performance testing suite demonstrating advanced load testing capabilities, comprehensive monitoring, and Professional-level reporting for [Marvin Marzon's QA & SDET Portfolio](https://marvinmarzon.netlify.app).
 
 ## 🎯 Quick Overview
 
-This repository showcases **enterprise-level performance engineering expertise** through a comprehensive testing framework that validates:
+This repository showcases **professional-level performance engineering expertise** through a comprehensive testing framework that validates:
 
 - ✅ **Performance under load** (up to 300 concurrent users)
 - ✅ **System reliability** (99.5%+ availability target)
@@ -69,7 +69,7 @@ docker-compose up k6-stress
 - **Error Rate**: < 1% failed requests
 - **Throughput**: > 50 requests/second sustained
 
-## 📈 Enterprise Features
+## 📈 Features
 
 ### 🔧 **Professional Tooling**
 - Multi-environment support (dev/staging/production)
@@ -185,7 +185,7 @@ Status: ✅ PASSED
 
 ## 🤝 Contributing
 
-This framework demonstrates enterprise-level QA engineering capabilities. For questions or collaboration opportunities:
+This framework demonstrates Professional-level QA engineering capabilities. For questions or collaboration opportunities:
 
 **Marvin Marzon** - QA & SDET Professional
 - 📧 **Email**: marvinmarzon@outlook.com
@@ -200,7 +200,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**🚀 Enterprise Performance Testing Excellence**
+**🚀 Professional Performance Testing Excellence**
 
 *Demonstrating professional QA engineering capabilities through comprehensive performance validation*
 
