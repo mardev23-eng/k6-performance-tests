@@ -1,10 +1,9 @@
 # 🚀 K6 Enterprise Performance Testing Suite
 
-[![Performance Tests](https://github.com/marvin-marzon/k6-portfolio-tests/actions/workflows/performance-tests.yml/badge.svg)](https://github.com/marvin-marzon/k6-portfolio-tests/actions/workflows/performance-tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![K6 Version](https://img.shields.io/badge/K6-Latest-blue.svg)](https://k6.io/)
 
-> **Enterprise-grade performance testing framework for QA & SDET portfolio validation**
+> **Performance testing framework for QA & SDET portfolio validation**
 
 Professional K6 performance testing suite demonstrating advanced load testing capabilities, comprehensive monitoring, and enterprise-level reporting for [Marvin Marzon's QA & SDET Portfolio](https://marvinmarzon.netlify.app).
 
