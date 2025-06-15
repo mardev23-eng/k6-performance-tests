@@ -1,15 +1,15 @@
-# 🚀 K6 Professional Performance Testing Suite
+# 🚀 K6 Performance Testing Suite
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![K6 Version](https://img.shields.io/badge/K6-Latest-blue.svg)](https://k6.io/)
 
 > **Performance testing framework for QA & SDET portfolio validation**
 
-Professional K6 performance testing suite demonstrating advanced load testing capabilities, comprehensive monitoring, and Professional-level reporting for [Marvin Marzon's QA & SDET Portfolio](https://marvinmarzon.netlify.app).
+Professional K6 performance testing suite demonstrating advanced load testing capabilities, comprehensive monitoring, and reporting for [Marvin Marzon's QA & SDET Portfolio](https://marvinmarzon.netlify.app).
 
 ## 🎯 Quick Overview
 
-This repository showcases **professional-level performance engineering expertise** through a comprehensive testing framework that validates:
+This repository showcases **performance engineering expertise** through a comprehensive testing framework that validates:
 
 - ✅ **Performance under load** (up to 300 concurrent users)
 - ✅ **System reliability** (99.5%+ availability target)
@@ -189,7 +189,7 @@ This framework demonstrates Professional-level QA engineering capabilities. For 
 
 **Marvin Marzon** - QA & SDET Professional
 - 📧 **Email**: marvinmarzon@outlook.com
-- 💼 **LinkedIn**: [Marvin Marzon](https://www.linkedin.com/in/marvin-marzon-615400170/)
+- 💼 **LinkedIn**: [Marvin Marzon](https://www.linkedin.com/in/mmarzon/)
 - 🌐 **Portfolio**: [https://marvinmarzon.netlify.app](https://marvinmarzon.netlify.app)
 
 ## 📄 License
@@ -205,7 +205,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Demonstrating professional QA engineering capabilities through comprehensive performance validation*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://marvinmarzon.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marvin-marzon-615400170/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmarzon/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:marvinmarzon@outlook.com)
 
 </div>
