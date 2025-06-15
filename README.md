@@ -1,8 +1,5 @@
 # 🚀 K6 Performance Testing Suite
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![K6 Version](https://img.shields.io/badge/K6-Latest-blue.svg)](https://k6.io/)
-
 > **Performance testing framework for QA & SDET portfolio validation**
 
 K6 performance testing suite demonstrating advanced load testing capabilities, comprehensive monitoring, and reporting for [Marvin Marzon's QA & SDET Portfolio](https://marvinmarzon.netlify.app).
