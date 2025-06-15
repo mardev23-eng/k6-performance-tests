@@ -5,7 +5,7 @@
 
 > **Performance testing framework for QA & SDET portfolio validation**
 
-Professional K6 performance testing suite demonstrating advanced load testing capabilities, comprehensive monitoring, and reporting for [Marvin Marzon's QA & SDET Portfolio](https://marvinmarzon.netlify.app).
+K6 performance testing suite demonstrating advanced load testing capabilities, comprehensive monitoring, and reporting for [Marvin Marzon's QA & SDET Portfolio](https://marvinmarzon.netlify.app).
 
 ## 🎯 Quick Overview
 
